@@ -1,1 +1,1 @@
-# FigmaPlugin
+# FigmaPlugin using firebase authentication
