@@ -1,0 +1,50 @@
+.publication {
+  padding: 2vw 20vw;
+}
+.publication-heading {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 1vw;
+}
+@media (max-width: 94em) {
+    .publication-heading h1 {
+        font-size: 2vw;
+      }
+}
+@media (max-width: 79em) {
+    .publication-heading h1 {
+        font-size: 2vw;
+      }
+}
+@media (max-width: 74em) {
+    .publication-heading h1 {
+        font-size: 3vw;
+      }
+}
+@media (max-width: 63em) {
+  .publication-heading h1 {
+    font-size: 4vw;
+  }
+}
+@media (max-width: 49em) {
+  .publication-heading h1 {
+    font-size: 4vw;
+  }
+}
+@media (max-width: 35em) {
+}
+@media (max-width: 28em) {
+  .publication-heading h1 {
+    font-size: 4.5vw;
+  }
+}
+@media (max-width: 23em) {
+  .publication-heading h1 {
+    font-size: 4vw;
+  }
+}
+@media (max-width: 18em) {
+  .publication-heading h1 {
+    font-size: 4.5vw;
+  }
+}

@@ -1,0 +1,143 @@
+.contact-us {
+  padding: 6vw 0vw;
+  background-image: url("../../Assests/footer.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1vw;
+}
+.contact-us h1 {
+  font-size: 2.5vw;
+  color: white;
+  font-weight: 500;
+}
+.contact-us h2 {
+  font-size: 1.5vw;
+  color: white;
+}
+.contact-us button {
+  background-color: white;
+  color: black;
+  width: 10%;
+  border: none;
+  padding: 10px;
+  font-size: 1.5vw;
+  text-align: center;
+}
+.contact-us button:hover {
+  background-color: transparent;
+  color: white;
+  border: white solid 0.5px;
+}
+@media (max-width: 94em) {
+    .contact-us h1{
+        font-size: 3vw;
+    }
+    .contact-us h2{
+        font-size: 2vw;
+    }
+    .contact-us button{
+        width: 30%;
+        font-size: 2vw;
+    }
+}
+@media (max-width: 79em) {
+    .contact-us h1{
+        font-size: 3vw;
+    }
+    .contact-us h2{
+        font-size: 2vw;
+    }
+    .contact-us button{
+        width: 30%;
+        font-size: 2vw;
+    }
+}
+@media (max-width: 74em) {
+    .contact-us h1{
+        font-size: 4vw;
+    }
+    .contact-us h2{
+        font-size: 3vw;
+    }
+    .contact-us button{
+        width: 30%;
+        font-size: 2vw;
+    }
+}
+@media (max-width: 63em) {
+    .contact-us h1{
+        font-size: 4vw;
+    }
+    .contact-us h2{
+        font-size: 3vw;
+    }
+    .contact-us button{
+        width: 30%;
+        font-size: 2vw;
+    }
+}
+@media (max-width: 49em) {
+    .contact-us h1{
+        font-size: 4vw;
+    }
+    .contact-us h2{
+        font-size: 3vw;
+    }
+    .contact-us button{
+        width: 30%;
+        font-size: 2vw;
+    }
+}
+@media (max-width: 35em) {
+    .contact-us h1{
+        font-size: 5vw;
+    }
+    .contact-us h2{
+        font-size: 4vw;
+    }
+    .contact-us button{
+        width: 30%;
+        font-size: 3vw;
+    }
+}
+@media (max-width: 28em) {
+    .contact-us h1{
+        font-size: 5vw;
+    }
+    .contact-us h2{
+        font-size: 4vw;
+    }
+    .contact-us button{
+        width: 30%;
+        font-size: 3vw;
+    }
+}
+@media (max-width: 23em) {
+    .contact-us h1{
+        font-size: 5vw;
+    }
+    .contact-us h2{
+        font-size: 4vw;
+    }
+    .contact-us button{
+        width: 30%;
+        font-size: 3vw;
+    }
+}
+@media (max-width: 18em) {
+    .contact-us h1{
+        font-size: 5vw;
+    }
+    .contact-us h2{
+        font-size: 4vw;
+    }
+    .contact-us button{
+        width: 30%;
+        font-size: 3vw;
+    }
+}
